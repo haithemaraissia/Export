@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ManageSites", "..\", "{21B81BC2-6BE8-45AD-909E-F3EDD56ACD4C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ManageSites"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\ManageSites\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ManageSites\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ManageSites"
+		Release.AspNetCompiler.PhysicalPath = "..\..\ManageSites\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ManageSites\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54078"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B81BC2-6BE8-45AD-909E-F3EDD56ACD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B81BC2-6BE8-45AD-909E-F3EDD56ACD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = ..
+	EndGlobalSection
+EndGlobal
